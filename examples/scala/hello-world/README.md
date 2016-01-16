@@ -32,5 +32,5 @@ shell script provided as part of the Spark distribution.
 The submit command you need should look something like this:
 
 ```
-spark-submit --class io.onetapbeyond.opencpu.spark.executor.examples.HelloWorld --master local[*] /path/to/fat/jar/hello-world-assembly-[version].jar
+spark-submit --class io.onetapbeyond.renjin.spark.executor.examples.HelloWorld --master local[*] /path/to/fat/jar/hello-world-assembly-[version].jar
 ```
