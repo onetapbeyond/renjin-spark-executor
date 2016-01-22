@@ -1,4 +1,4 @@
-#R Renjin Spark Executor (REX) Library
+#Apache Spark Renjin Executor (REX) Library
 
 REX is a Scala library offering access to the scientific computing
 power of the R programming language to 
