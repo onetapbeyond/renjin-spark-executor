@@ -1,10 +1,9 @@
 #Apache Spark Renjin Executor (REX) Library
 
-REX is a Scala library offering access to the scientific computing
-power of the R programming language to 
-[Apache Spark](http://spark.apache.org/) batch and streaming
-applications on the JVM. This library is built on top of the
-[renjin-r-executor](https://github.com/onetapbeyond/renjin-r-executor)
+REX is an [Apache Spark](http://spark.apache.org/) package offering access
+to the scientific computing power of the R programming language to 
+Spark batch and streaming applications on the JVM. This library is built on top
+of the [renjin-r-executor](https://github.com/onetapbeyond/renjin-r-executor)
 library, a lightweight solution for integrating R analytics executed on
 the [Renjin R interpreter](http://www.renjin.org) into any application
 running on the JVM.
